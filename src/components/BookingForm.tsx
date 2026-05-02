@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Calendar, MapPin, Phone, Mail } from 'lucide-react';
 
 interface FormData {

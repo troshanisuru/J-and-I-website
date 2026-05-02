@@ -1,6 +1,5 @@
 'use client';
 
-import React from 'react';
 import { Phone, Mail, MapPin, Facebook, Twitter, Instagram } from 'lucide-react';
 
 export default function Footer() {

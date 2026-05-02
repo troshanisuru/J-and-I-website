@@ -1,6 +1,5 @@
 'use client';
 
-import React from 'react';
 import { Sparkles, Home, Building2, RefreshCw, Trash2 } from 'lucide-react';
 
 interface ServiceCard {
